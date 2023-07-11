@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Canvas-Practice/static/css/main.2b1c93fc.css",
-    "main.js": "/Canvas-Practice/static/js/main.e64bdb50.js",
+    "main.css": "/Canvas-Practice/static/css/main.e6c13ad2.css",
+    "main.js": "/Canvas-Practice/static/js/main.ae0078c7.js",
     "static/js/787.e4c793de.chunk.js": "/Canvas-Practice/static/js/787.e4c793de.chunk.js",
     "static/media/cat.jpeg": "/Canvas-Practice/static/media/cat.c4ef46819c8543cfe923.jpeg",
     "index.html": "/Canvas-Practice/index.html",
-    "main.2b1c93fc.css.map": "/Canvas-Practice/static/css/main.2b1c93fc.css.map",
-    "main.e64bdb50.js.map": "/Canvas-Practice/static/js/main.e64bdb50.js.map",
+    "main.e6c13ad2.css.map": "/Canvas-Practice/static/css/main.e6c13ad2.css.map",
+    "main.ae0078c7.js.map": "/Canvas-Practice/static/js/main.ae0078c7.js.map",
     "787.e4c793de.chunk.js.map": "/Canvas-Practice/static/js/787.e4c793de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b1c93fc.css",
-    "static/js/main.e64bdb50.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ae0078c7.js"
   ]
 }
