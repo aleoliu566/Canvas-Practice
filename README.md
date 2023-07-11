@@ -19,6 +19,6 @@ npm test
 
 ### Demo
 
-- [Video](./public/Demo.mov)
+- [Video](https://youtu.be/Gk0qwMv9SCI)
 
 - [Link](https://aleoliu566.github.io/Canvas-Practice/)
