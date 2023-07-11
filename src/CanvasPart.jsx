@@ -39,6 +39,7 @@ function CanvasPart2() {
 
     const image = new Image();
     image.src = cat;
+    image.alt = 'cat';
 
     image.onload = () => {
       drawImage(ctx, image);
@@ -149,6 +150,7 @@ function CanvasPart2() {
         width={800}
         height={800}
         style={{ border: '1px solid black' }}
+        data-testid="Canvas"
       ></canvas>
 
       {comments.map((comment, idx) => {
@@ -169,7 +171,6 @@ function CanvasPart2() {
       <button value='submit' onClick={onClickUserInput}>submit</button> (please enter your user name)
       <br /><br />
       { userName ? `Current user is ${userName}` : 'You did not enter your user name yet' }
-      
     </>
   );
 }

@@ -39,5 +39,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "jest-canvas-mock": "^2.5.2",
+    "react-testing-library": "^8.0.1"
   }
 }

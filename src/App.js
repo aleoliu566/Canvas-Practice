@@ -1,4 +1,3 @@
-import './App.css';
 import CanvasPart from './CanvasPart.jsx';
 
 function App() {
